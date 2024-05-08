@@ -12,3 +12,5 @@ genders, which would be much more straightforward. It is highly likely that this
 be entirely based on the probability estimator, and its scoring and accuracy measures would easily reach
 100%.
 
+**By Antonio Sasaki**
+

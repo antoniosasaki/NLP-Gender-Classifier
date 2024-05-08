@@ -6,10 +6,9 @@ is to use machine learning knowledge to develop a gender prediction model based 
 
 ### Appendix 1: the meaning of ’ambigu’ in the data frame
 It is also possible to understand the meaning of ’ambigu’, that appears in the gender column, not
-signifying non-binary gender but rather imprecision from the census collector in defining the individual’s
+signifying non-binary gender (as we assumed) but rather imprecision from the census collector in defining the individual’s
 gender. In this case, we could discard this information and would have a prediction model with only two
 genders, which would be much more straightforward. In this case, it is highly likely that the model would
 be entirely based on the probability estimator, and its scoring and accuracy measures would easily reach
-100%. For these reasons, it is more challenging to interpret these data as motivating the existence of a
-third gender that can be understood and identified by our classifier, which was the scenario we assumed.
+100%.
 
